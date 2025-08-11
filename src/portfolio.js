@@ -160,8 +160,8 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "I'm open to opportunities and collaborations.",
-  number: "+91-YOUR_PHONE",
-  email_address: "YOUR_EMAIL@gmail.com"
+  number: "+91-7340172151",
+  email_address: "vishnusindhal5040@gmail.com"
 };
 
 // Twitter Section
